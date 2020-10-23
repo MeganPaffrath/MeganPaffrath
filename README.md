@@ -19,15 +19,15 @@ A podcast that I really love is [Full Stack Radio](https://open.spotify.com/show
 </br>
 
 # Languages And Tools:
-<img alt="node" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" />
-<img alt="react" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" />
-<img alt="java" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/919/919854.svg" />
-<img alt="js" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/2721/2721272.svg" />
-<img alt="sql" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/2306/2306173.svg" />
-<img alt="html" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/3143/3143482.svg" />
-<img alt="css" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/2306/2306041.svg" />
+<img alt="node" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" />
+<img alt="react" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" />
+<img alt="java" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/919/919854.svg" />
+<img alt="js" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/2721/2721272.svg" />
+<img alt="sql" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/2306/2306173.svg" />
+<img alt="html" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/3143/3143482.svg" />
+<img alt="css" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/2306/2306041.svg" />
 
-</br></br>
+</br></br></br>
 
 # Github Stats:
 [![Megan Paffraths's github stats](https://github-readme-stats.vercel.app/api?username=meganpaffrath&theme=omni&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
