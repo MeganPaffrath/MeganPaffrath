@@ -1,8 +1,6 @@
 ## 👋   Hello there!
 ### My name is [Megan Paffrath](http://meganpaffrath.com). I am a student 👩‍💻 obsessed with Full Stack Development! 💻
 
-<br/>
-
 I work hard as a student to make sure that I have the time to work on personal projects as well as to learn new skillsets outside of school. I am a strong believer in "learning by doing."
 
 Currently, I am working on a [time tracker](https://github.com/MeganPaffrath/time-tracker) web application! I love this project because it covers both front end (React, JavaScript, and CSS) as well as the backend (MongoDB and Node.js)! It has brought many challenges, and I enjoy a good challenge! 😊
@@ -11,12 +9,9 @@ I like to track the time that I put into doing the things I love. Two things tha
 
 A podcast that I really love is [Full Stack Radio](https://open.spotify.com/show/0Ddvex5OtYOvhyyK6ckG3A?si=ObO2qntkSC6JapsPKRdW9Q) on Spotify! I highly encourage all of my Full Stack friends to check it out!
 
-</br>
 
 # Connect with me:
 [<img alt="website" width="60px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />](https://www.linkedin.com/in/meganpaffrath/)
-
-</br>
 
 # Languages And Tools:
 <img alt="node" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" />
