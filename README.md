@@ -29,4 +29,5 @@ A podcast that I really love is [Full Stack Radio](https://open.spotify.com/show
 # Github Stats:
 
 [![Megan Paffraths's github stats](https://github-readme-stats.vercel.app/api?username=meganpaffrath&theme=omni&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meganpaffrath&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
