@@ -1,14 +1,16 @@
 ## 👋 Hello there!
 
-### My name is [Megan Paffrath](http://meganpaffrath.com). I am a student 👩‍💻 obsessed with Full Stack Development! 💻
+### My name is [Megan Paffrath](http://meganpaffrath.com). I am a new grad 👩‍💻 obsessed with Full Stack Development! 💻
 
-I work hard as a student to make sure that I have the time to work on personal projects as well as to learn new skillsets outside of school. I am a strong believer in "learning by doing."
+Now that I have graduated, I still make sure that I have the time to work on personal projects as well as to learn new skills. I am a strong believer in "learning by doing."
 
-Currently, I am working on a [time tracker](https://github.com/MeganPaffrath/time-tracker) web application! I love this project because it covers both front end (React, JavaScript, and CSS) as well as the backend (MongoDB and Node.js)! It has brought many challenges, and I enjoy a good challenge! 😊
+Currently, I am working on improving my [time tracker](https://github.com/MeganPaffrath/time-tracker) web application! I love this project because it covers both front end (React, JavaScript, and CSS) as well as the backend (MongoDB and Node.js)! It has brought many challenges, and I enjoy a good challenge! 😊
 
 I like to track the time that I put into doing the things I love. Two things that I track my time for are guitar and full stack development. I would say that these 2 things highly define myself. It is not very frequently that a day goes by where I do not work on these two skills.
 
 A podcast that I really love is [Full Stack Radio](https://open.spotify.com/show/0Ddvex5OtYOvhyyK6ckG3A?si=ObO2qntkSC6JapsPKRdW9Q) on Spotify! I highly encourage all of my Full Stack friends to check it out!
+
+Want to learn more? Check out my [website!](https://meganpaffrath.com)
 
 # Connect with me:
 
