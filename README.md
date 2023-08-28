@@ -1,32 +1,8 @@
 ## 👋 Hello there!
 
-### My name is [Megan Paffrath](http://meganpaffrath.com). I am a new grad 👩‍💻 obsessed with Full Stack Development! 💻
-
-Now that I have graduated, I still make sure that I have the time to work on personal projects as well as to learn new skills. I am a strong believer in "learning by doing."
-
-Currently, I am working on improving my [time tracker](https://github.com/MeganPaffrath/time-tracker) web application! I love this project because it covers both front end (React, JavaScript, and CSS) as well as the backend (MongoDB and Node.js)! It has brought many challenges, and I enjoy a good challenge! 😊
-
-I like to track the time that I put into doing the things I love. Two things that I track my time for are guitar and full stack development. I would say that these 2 things highly define myself. It is not very frequently that a day goes by where I do not work on these two skills.
-
-A podcast that I really love is [Full Stack Radio](https://open.spotify.com/show/0Ddvex5OtYOvhyyK6ckG3A?si=ObO2qntkSC6JapsPKRdW9Q) on Spotify! I highly encourage all of my Full Stack friends to check it out!
+My name is [Megan Paffrath](http://meganpaffrath.com). I am a passionate full-stack software engineer. I enjoy learning daily, growing my skillset, and working on challenging problems.
 
 Want to learn more? Check out my [website!](https://meganpaffrath.com)
-
-# Connect with me:
-
-[<img alt="website" width="60px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />](https://www.linkedin.com/in/meganpaffrath/)
-
-# Languages And Tools:
-
-<img alt="node" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" />
-<img alt="react" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" />
-<img alt="java" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/919/919854.svg" />
-<img alt="js" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/2721/2721272.svg" />
-<img alt="sql" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/2306/2306173.svg" />
-<img alt="html" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/3143/3143482.svg" />
-<img alt="css" align="left" width="50px" style="margin-right: 5px" src="https://www.flaticon.com/svg/static/icons/svg/2306/2306041.svg" />
-
-</br></br></br>
 
 # Github Stats:
 
